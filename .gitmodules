@@ -1,0 +1,3 @@
+[submodule "lib/TA.Arduino.HysteresisOutput"]
+	path = lib/TA.Arduino.HysteresisOutput
+	url = https://github.com/Tigra-Astronomy/TA.Arduino.HysteresisOutput.git
